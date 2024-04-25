@@ -33,6 +33,8 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
+  fab fa-bilibili: https://space.bilibili.com/318916927 || Bilibili || '#00a1d6'
+  fab fa-qq: https://qm.qq.com/q/MZjLd3w68E || QQ群 || '#eb1923'
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
@@ -280,8 +282,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 
 
 # Aside widget - Newest Comments
 newest_comments:
