@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Minecraft
-subtitle: ''
-description: ''
-keywords:
+title: PotatoChampion的资源分享
+subtitle: 一个专门分享资源的良心up主
+description: 主要为MC优质整合包的分享
+keywords: MC整合包
 author: PotatoChampion
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://mcmodpacks.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
