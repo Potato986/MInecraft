@@ -4,13 +4,13 @@ date: 2024-04-25 15:40:43
 tags:
   - tag1
   - tag2
-type:
-comments:
-description:
-keywords:
-top_img:
+type: post
+comments: true
+description: "这是我的新文章的描述。"
+keywords: "关键词1, 关键词2, 关键词3"
+top_img: /images/top_image.jpg
 aside: true
-aplayer:
+aplayer: false
 highlight_shrink: false
 random: false
 categories: 
