@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /images/logo.png
+  logo: /images/avatar.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -43,7 +43,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/avatar.png
+favicon: /images/favicon.png
 
 # Avatar (頭像)
 avatar:
