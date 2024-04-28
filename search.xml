@@ -3,7 +3,7 @@
     <ShortName>MC Mod Packs Search</ShortName>
     <Description>使用 MC Mod Packs 来搜索模组包。</Description>
     <Tags>minecraft mods modpacks</Tags>
-    <Contact>your_email@example.com</Contact>
+    <Contact>2842343206@qq.com</Contact>
     <Url type="text/html" method="get" template="https://mcmodpacks.cn/search?q={searchTerms}"/>
     <!-- 如果你的网站提供了图标 -->
     <Image height="16" width="16" type="image/x-icon">https://mcmodpacks.cn/favicon.ico</Image>
