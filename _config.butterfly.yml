@@ -9,7 +9,6 @@ nav:
 
 # Menu 目錄
 menu:
-  搜索: /search/ || fas fa-search
   主页: / || fas fa-home
   岁月时光: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
@@ -44,7 +43,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/favatar.png
+favicon: /images/favicon.png
 
 # Avatar (頭像)
 avatar:
