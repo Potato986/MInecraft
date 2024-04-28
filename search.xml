@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>MC Mod Packs Search</ShortName>
+    <Description>使用 MC Mod Packs 来搜索模组包。</Description>
+    <Tags>minecraft mods modpacks</Tags>
+    <Contact>your_email@example.com</Contact>
+    <Url type="text/html" method="get" template="https://mcmodpacks.cn/search?q={searchTerms}"/>
+    <!-- 如果你的网站提供了图标 -->
+    <Image height="16" width="16" type="image/x-icon">https://mcmodpacks.cn/favicon.ico</Image>
+    <!-- 如果你的网站支持搜索建议 -->
+    <!-- <Url type="application/x-suggestions+json" template="https://mcmodpacks.cn/suggest?q={searchTerms}"/> -->
+    <AdultContent>false</AdultContent>
+    <!-- 适当设置你的网站语言 -->
+    <Language>zh-CN</Language>
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

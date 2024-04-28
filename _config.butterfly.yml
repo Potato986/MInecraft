@@ -895,7 +895,7 @@ lazyload:
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
-Open_Graph_meta:
+Open_Graph_:
   enable: true
   option:
     # twitter_card:
